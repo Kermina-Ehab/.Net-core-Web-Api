@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>http://localhost:8888</_PublishTargetUrl>
+    <History>False|2022-07-27T12:45:16.0866205Z;False|2022-07-27T14:44:09.4609209+02:00;False|2022-07-27T14:41:27.0498449+02:00;</History>
+  </PropertyGroup>
+</Project>
